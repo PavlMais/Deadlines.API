@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Paul\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Paul\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Deadlines.API.-1240293087.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Paul\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Paul\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Paul\r\Deadlines.API" t="IncludeFlat">
+      <e p="Deadlines.API" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="AuthController.cs" t="Include" />
+          <e p="DeadlineController.cs" t="Include" />
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="Deadlines.API.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="DbUser.cs" t="Include" />
+          <e p="Deadline.cs" t="Include" />
+          <e p="EfContext.cs" t="Include" />
+          <e p="Role.cs" t="Include" />
+          <e p="Seader.cs" t="Include" />
+          <e p="UserRole.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="CustomValidator.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201125204756_Initial.cs" t="Include" />
+          <e p="20201125204756_Initial.Designer.cs" t="Include" />
+          <e p="20201130184517_AddUserToDeadline.cs" t="Include" />
+          <e p="20201130184517_AddUserToDeadline.Designer.cs" t="Include" />
+          <e p="EfContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Deadline.cs" t="Include" />
+          <e p="UserLoginModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Deadlines.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="JwtTokenService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="Deadlines.API.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
